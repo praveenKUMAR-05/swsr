@@ -22,7 +22,7 @@ import NotFound from "./pages/NotFound";
 import Contact from "./pages/Contact";
 import ScheduleDemo from "./pages/scheduledemo";
 import PaymentGateway from "./pages/paymentgateway";
-import WorkerDashboard from "./pages/WorkerDashboard";
+import WorkerDashboard from "./pages/Workerdashboard";
 
 const queryClient = new QueryClient();
 
